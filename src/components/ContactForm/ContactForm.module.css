@@ -1,7 +1,6 @@
 .formContact {
   margin: auto;
-  border: 1px solid #646cff;
-  border-radius: 8px;
+  border: 1.5px solid black;
   width: 320px;
   padding: 20px;
   margin-bottom: 40px;
@@ -19,7 +18,6 @@
 
 .formInput {
   border-style: none;
-  border-radius: 8px;
   padding-block: 8px;
   padding-inline: 12px;
   min-width: 300px;
@@ -31,7 +29,7 @@
   position: absolute;
   top: 32px;
   left: 8px;
-  color: tomato;
+  color: red;
 }
 
 .formButton {
